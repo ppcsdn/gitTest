@@ -7,5 +7,6 @@ package com.example.test;
 public class TestGit {
     public static void main(String[] args) {
         System.out.println("随意a");
+        System.out.println("随意BBBB");
     }
 }
