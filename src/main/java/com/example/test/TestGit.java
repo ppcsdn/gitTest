@@ -10,5 +10,6 @@ public class TestGit {
         System.out.println("大佬完成项目任务了");
         System.out.println("我在dev分支里完成开发任务了");
         System.out.println("大佬又完成项目任务了");
+         System.out.println("大佬开始虐菜了");
     }
 }
