@@ -7,6 +7,7 @@ package com.example.test;
 public class Test1 {
     public static void main(String[] args) {
         System.out.println("我开发时候的正常改动");
+        System.out.println("我开发时候的正常改动2");
     }
 }
 
