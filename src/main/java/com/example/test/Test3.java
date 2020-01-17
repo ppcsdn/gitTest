@@ -8,5 +8,7 @@ public class Test3 {
          System.out.println("args5 = " + args);
          System.out.println("args6 = " + args);
         System.out.println("args7 = " + args);
+        
+        System.out.println("args8 = " + args);
     }
 }
