@@ -5,5 +5,6 @@ public class Test3 {
         System.out.println("args1 = " + args);
         System.out.println("args2 = " + args);
         System.out.println("args3 = " + args);
+         System.out.println("args5 = " + args);
     }
 }
