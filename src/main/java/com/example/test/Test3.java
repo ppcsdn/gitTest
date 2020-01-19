@@ -11,6 +11,7 @@ public class Test3 {
 
         System.out.println("args8 = " + args);
         System.out.println("args9 = " + args);
+         System.out.println("args91 = " + args);
 
     }
 }
