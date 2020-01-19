@@ -18,5 +18,6 @@ public class Test3 {
          System.out.println("args120 = " + args);
         System.out.println("args912 = " + args);
         System.out.println("args913 = " + args);
+        System.out.println("args100 = " + args);
     }
 }
