@@ -6,11 +6,6 @@ package com.example.test;
  **/
 public class Test4 {
     public static void main(String[] args) {
-        System.out.printf("5");
         System.out.printf("");
-        System.out.printf("2");
-        System.out.printf("3");
-System.out.printf("4");
-System.out.printf("5");
     }
 }
