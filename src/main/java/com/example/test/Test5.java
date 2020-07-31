@@ -15,5 +15,6 @@ public class Test5 {
     }
      void test1(){
         System.out.printf("");
+         System.out.printf("");
     }
 }
