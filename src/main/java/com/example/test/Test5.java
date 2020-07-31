@@ -9,4 +9,6 @@ public class Test5 {
         System.out.printf("");
         System.out.printf("");
     }
+     void test(){
+    }
 }
