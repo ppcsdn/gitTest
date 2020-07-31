@@ -17,7 +17,7 @@ public class Test5 {
          System.out.println();
     }
     void test2(){
-        int i = 0;
+        int i = 0; int b = 0;
         System.out.println();
     }
 }
