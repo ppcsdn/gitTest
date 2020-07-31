@@ -10,5 +10,6 @@ public class Test4 {
         System.out.printf("2");
         System.out.printf("3");
 System.out.printf("4");
+System.out.printf("5");
     }
 }
