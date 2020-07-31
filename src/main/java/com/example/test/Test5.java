@@ -16,4 +16,7 @@ public class Test5 {
      void test1(){
          System.out.println();
     }
+     void test2(){
+        int b = 0;
+    }
 }
