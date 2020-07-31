@@ -13,4 +13,7 @@ public class Test5 {
     void test(){
         System.out.printf("");
     }
+     void test1(){
+        System.out.printf("");
+    }
 }
