@@ -20,4 +20,8 @@ public class Test5 {
         int i = 0; int b = 0;
         System.out.println();
     }
+     void test4(){
+        int i = 0; int b = 0;
+        System.out.println();
+    }
 }
