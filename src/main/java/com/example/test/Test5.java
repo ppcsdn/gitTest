@@ -14,7 +14,6 @@ public class Test5 {
         System.out.printf("");
     }
      void test1(){
-        System.out.printf("");
-         System.out.printf("");
+         System.out.println();
     }
 }
